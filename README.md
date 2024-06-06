@@ -1,5 +1,9 @@
 ## AWS Bedrock Summarization Example
 
-This code demonstrates how to do summarization on aws bedrock.
+This code demonstrates how to do summarization on AWS bedrock.
 
-# bedrock_summarization
+`python3 ./main.py`
+
+run the chatbot:
+
+`streamlit run chatbot.py`
